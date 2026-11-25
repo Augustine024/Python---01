@@ -1,0 +1,8 @@
+# Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+
+# Course-supplied files to restore locally
+/project1-numpy-student/weights/image_encoder.npz
+/project1-numpy-student/assets/reference_outputs.npz
