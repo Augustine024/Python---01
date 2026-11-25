@@ -10,7 +10,6 @@
 
 - 图像编码器包含图像分块、输入嵌入、多头注意力、Transformer 编码块和最终投影。 [image_encoder.py](project1-numpy-student/image_encoder.py)
 - 依赖包括 NumPy、Pillow 和课堂示例使用的 imageio。本次实验使用 Windows、Python 3.11.5、NumPy 2.4.6、Pillow 12.3.0 和 imageio 2.38.2。 [requirements.txt](project1-numpy-student/requirements.txt)
-- 课程原始说明记录了模型接口、检查阶段和提交要求。 [课程 README](project1-numpy-student/README.md)
 
 ## 获取课程数据
 
